@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1041356878392",
+    "firebase_url": "https://br-digitalcomm-dev.firebaseio.com",
+    "project_id": "br-digitalcomm-dev",
+    "storage_bucket": "br-digitalcomm-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041356878392:android:45f80d37ac2016cb5b6ccd",
+        "android_client_info": {
+          "package_name": "br.com.carrefour.scanandgo.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AtJC8nI56-5zkZBCN5dppsvF9RBl25o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041356878392-0fvhapcco1vpvp5nng3inh4j2aip1hig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041356878392:android:fc37127050a0a1f55b6ccd",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041356878392-bm1arrgamcreljm0u0udc3kur25lvtg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "b3fa52eb5669ec2b6aba594b84e15eb8d776220a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AtJC8nI56-5zkZBCN5dppsvF9RBl25o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041356878392-0fvhapcco1vpvp5nng3inh4j2aip1hig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041356878392:android:135a0079911fd7ca5b6ccd",
+        "android_client_info": {
+          "package_name": "com.sso.c4otherlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041356878392-l5su5vrdsefhr4frsrmd2kikmcjdudlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sso.c4otherlogin",
+            "certificate_hash": "a3b418a9a03220dfa54632ab57d8ac9dd0c5dd62"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AtJC8nI56-5zkZBCN5dppsvF9RBl25o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041356878392-0fvhapcco1vpvp5nng3inh4j2aip1hig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
