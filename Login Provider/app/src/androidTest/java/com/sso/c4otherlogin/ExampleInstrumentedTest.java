@@ -1,6 +1,5 @@
 package com.sso.c4otherlogin;
 
-
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -13,7 +12,7 @@ public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() {
         // Context of the app under test.
-        assertEquals(4, 2 + 2);
+        assertEquals(4, 4);
     }
 }
 
