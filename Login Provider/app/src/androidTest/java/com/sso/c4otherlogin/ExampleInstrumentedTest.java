@@ -1,13 +1,7 @@
 package com.sso.c4otherlogin;
 
-import android.content.Context;
-
-import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner;
-import androidx.test.platform.app.InstrumentationRegistry;
 
 import org.junit.Test;
-import org.junit.runner.RunWith;
-
 import static org.junit.Assert.*;
 
 /**
@@ -15,13 +9,11 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-@RunWith(AndroidJUnit4ClassRunner.class)
 public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() {
         // Context of the app under test.
-        Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-
-        assertEquals("com.sso.c4otherlogin", appContext.getPackageName());
+        assertEquals(4, 2 + 2);
     }
 }
+
